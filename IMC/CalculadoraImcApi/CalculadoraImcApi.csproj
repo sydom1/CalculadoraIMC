@@ -13,7 +13,8 @@
 
     <!-- Incluir a pasta frontend como conteúdo -->
   <ItemGroup>
-    <Content Include="frontend\**\*.*" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="FrontEnd\**\*.*" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 
 </Project>
+
