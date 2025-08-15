@@ -31,3 +31,46 @@ C:\Users\5011370\Desktop\Anderson.14.02.25\Programação\IMC\CalculadoraImcApi\o
 C:\Users\5011370\Desktop\Anderson.14.02.25\Programação\IMC\CalculadoraImcApi\obj\Debug\net7.0\CalculadoraImcApi.pdb
 C:\Users\5011370\Desktop\Anderson.14.02.25\Programação\IMC\CalculadoraImcApi\obj\Debug\net7.0\CalculadoraImcApi.genruntimeconfig.cache
 C:\Users\5011370\Desktop\Anderson.14.02.25\Programação\IMC\CalculadoraImcApi\obj\Debug\net7.0\ref\CalculadoraImcApi.dll
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\appsettings.Development.json
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\appsettings.json
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\frontend\img\abaixo-do-peso.png
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\frontend\img\obesidade.png
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\frontend\img\peso-normal.png
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\frontend\img\sobrepeso.png
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\frontend\index.html
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\frontend\script.js
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\frontend\styles.css
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\CalculadoraImcApi.staticwebassets.endpoints.json
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\CalculadoraImcApi.exe
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\CalculadoraImcApi.deps.json
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\CalculadoraImcApi.runtimeconfig.json
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\CalculadoraImcApi.dll
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\CalculadoraImcApi.pdb
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\CalculadoraImcApi.csproj.AssemblyReference.cache
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\rpswa.dswa.cache.json
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\CalculadoraImcApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\CalculadoraImcApi.AssemblyInfoInputs.cache
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\CalculadoraImcApi.AssemblyInfo.cs
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\CalculadoraImcApi.csproj.CoreCompileInputs.cache
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\CalculadoraImcApi.MvcApplicationPartsAssemblyInfo.cs
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\CalculadoraImcApi.MvcApplicationPartsAssemblyInfo.cache
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\CalculadoraImcApi.sourcelink.json
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\rjimswa.dswa.cache.json
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\scopedcss\bundle\CalculadoraImcApi.styles.css
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\staticwebassets.build.json
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\staticwebassets.build.json.cache
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\staticwebassets.development.json
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\Calculad.9462211E.Up2Date
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\CalculadoraImcApi.dll
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\refint\CalculadoraImcApi.dll
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\CalculadoraImcApi.pdb
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\CalculadoraImcApi.genruntimeconfig.cache
+F:\PROGRAMAÇÃO\4-PROGRAMAS\6-OUTROS\Nova pasta\CalculadoraIMC\IMC\CalculadoraImcApi\obj\Debug\net7.0\ref\CalculadoraImcApi.dll

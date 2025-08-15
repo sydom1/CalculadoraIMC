@@ -5,12 +5,12 @@ const alturaInput = document.getElementById('altura');
 const resultadoDiv = document.getElementById('resultado');
 const limparBtn = document.getElementById('limparBtn'); 
 
-// 2. Adicionamos um "ouvinte" de evento ao formulário
+// 2. Adicionamos um ouvinte de evento ao formulário
 form.addEventListener('submit', function(event) {
     // 3. Prevenimos o comportamento padrão do formulário
     event.preventDefault();
 
-    // 4. Capturamos os valores de peso e altura
+    // 4. Capturamos os valores peso e altura
     const peso = pesoInput.value;
     const altura = alturaInput.value;
 
@@ -24,7 +24,16 @@ form.addEventListener('submit', function(event) {
     }
 });
 
-// 4. Adicionamos um "ouvinte" para o novo botão de limpar
+//  Adicionado: permitir Enter disparar submit explicitamente em qualquer input (opcional, reforço)
+[pesoInput, alturaInput].forEach(input => {
+    input.addEventListener("keydown", function(event) {
+        if (event.key === "Enter") {
+            form.dispatchEvent(new Event('submit', { cancelable: true }));
+        }
+    });
+});
+
+// 4. Adicionamos um ouvinte para o novo botão de limpar
 limparBtn.addEventListener('click', function() {
     // 5. Limpamos os valores dos campos de input
     pesoInput.value = '';
@@ -36,8 +45,8 @@ limparBtn.addEventListener('click', function() {
 // 7. Função para enviar os dados para a sua API em C#
 async function calcularImc(peso, altura) {
     try {
-        // Montamos a URL da sua API, passando peso e altura como parâmetros
-        // Lembre-se de que a sua API C# precisa estar rodando para isso funcionar
+        // URL da API, passando peso e altura como parâmetros
+        // A API C# precisa estar rodando para isso funcionar usando comando dotnet run na pasta onde esta o csproj
         const url = `http://localhost:5251/imc?peso=${peso}&altura=${altura}`;
 
         // Fazemos uma requisição HTTP do tipo GET para a URL
@@ -55,7 +64,7 @@ async function calcularImc(peso, altura) {
         resultadoDiv.textContent = resultadoTexto;
 
     } catch (error) {
-        // 10. Se houver um erro, mostramos a mensagem na tela
+        // 10. mensagem de erro, caso precise
         console.error('Erro:', error);
         resultadoDiv.textContent = 'Ocorreu um erro ao calcular o IMC. Tente novamente.';
     }

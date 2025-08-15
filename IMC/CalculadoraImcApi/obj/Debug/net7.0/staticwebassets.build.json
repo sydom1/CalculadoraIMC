@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "Iy690gSHjDriExWDhd7aI7HptLqhSuJ0+abWEE7WIcM=",
-  "Source": "CalculadoraImcApi",
-  "BasePath": "_content/CalculadoraImcApi",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"ynL+WtJZuRCVeMm+fHLZj79Ga9z23RSuEyMS42Ytf3w=","Source":"CalculadoraImcApi","BasePath":"_content/CalculadoraImcApi","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

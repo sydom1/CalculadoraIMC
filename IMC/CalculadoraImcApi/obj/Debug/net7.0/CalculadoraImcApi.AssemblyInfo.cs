@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraImcApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b2071b2494e81e117508e94c1d91bd7db47879f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraImcApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraImcApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
