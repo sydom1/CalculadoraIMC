@@ -47,7 +47,10 @@ async function calcularImc(peso, altura) {
     try {
         // URL da API, passando peso e altura como parâmetros
         // A API C# precisa estar rodando para isso funcionar usando comando dotnet run na pasta onde esta o csproj
-        const url = `http://localhost:5251/imc?peso=${peso}&altura=${altura}`;
+        // const url = `http://localhost:5251/imc?peso=${peso}&altura=${altura}`; - usar quando for rodar apenas no pc
+        //usado para rodar no servidor
+        const url = `https://calculadoraimc.onrender.com/imc?peso=${peso}&altura=${altura}`;
+
 
         // Fazemos uma requisição HTTP do tipo GET para a URL
         const response = await fetch(url);
@@ -68,4 +71,5 @@ async function calcularImc(peso, altura) {
         console.error('Erro:', error);
         resultadoDiv.textContent = 'Ocorreu um erro ao calcular o IMC. Tente novamente.';
     }
+
 }
